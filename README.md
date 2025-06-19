@@ -10,7 +10,7 @@ A basic RESTful API built with Go and the Gin framework, featuring JWT-based aut
 * 🔐 JWT-based login system
 * 🛡️ Authentication middleware
 * 📦 Product CRUD (Create, Read, Update, Delete)
-* 👤 Role-based example users (admin, user)
+
 
 ---
 
